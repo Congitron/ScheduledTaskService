@@ -1,0 +1,23 @@
+﻿<TaskConfig>
+  <Tasks>
+    <Task>
+      <Name></Name>
+      <Description></Description>
+      <RunTime></RunTime>
+      <Endpoint></Endpoint>
+      <Method></Method>
+      <Data>
+        <DataItem>
+          <Key></Key>
+          <Value></Value>
+        </DataItem>
+      </Data>
+      <Cookies>
+        <Cookie>
+          <Name></Name>
+          <Value></Value>
+        </Cookie>
+      </Cookies>
+    </Task>
+  </Tasks>
+</TaskConfig>

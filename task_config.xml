@@ -1,0 +1,29 @@
+<TaskConfig>
+  <Tasks>
+    <Task>
+      <Name>WebAppEndpointTask</Name>
+      <Description>Do some stuff.</Description>
+      <RunTime>02:00:00</RunTime>
+      <Endpoint>http://localhost/MyController/Whatever</Endpoint>
+      <Method>POST</Method>
+      <Domain>localhost</Domain>
+      <Data>
+        <DataItem>
+          <Key>UserName</Key>
+          <Value>MyUser</Value>
+        </DataItem>
+        <DataItem>
+          <Key>Password</Key>
+          <Value>MyPassword</Value>
+        </DataItem>
+      </Data>
+      <Cookies>
+        <Cookie>
+          <Name>MyCookieName</Name>
+          <Value>MyCookieValue</Value>
+        </Cookie>
+      </Cookies>
+    </Task>
+    <Task></Task>
+  </Tasks>
+</TaskConfig>
